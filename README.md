@@ -1,2 +1,2 @@
 # rapidScan7
-This script run rapid7 scan for asset
+This script run rapid7 scan for all assets.
